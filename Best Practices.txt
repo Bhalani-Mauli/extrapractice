@@ -1,0 +1,17 @@
+1. name of the files/ variable should be meaningful (most important)
+2. form starting(main) page you can use index.js
+3. never use page1 page2 , project1 project3,... use apropriate name
+4. Project should Look clean and by reading the name of the folder/file one should understand
+ the meaning of the file/folder
+
+ for ex. by the name commons we can understand that common files should be there
+ and we are using it at various places
+ lets see
+
+ so we see it in almost every file 
+
+5.components has seperate folders and by each folders name you can understand whats there inside.
+6. we have one base html file from where you can copy the basic template so you dont need to write it
+again and again
+7. we have resources folder where we can put static file like image and anything else
+
