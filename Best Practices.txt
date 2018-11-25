@@ -15,3 +15,21 @@
 again and again
 7. we have resources folder where we can put static file like image and anything else
 
+So our Project structure looks like -->
+
+```
+- Bootstrap
+    -commons
+        -Bootstrap.js
+        -Bootstrap.css
+        -jquery.js
+    -components
+        -nav
+            -nav.html
+        -button-alert-badge
+            -button-alert-badge.html
+    -resources
+        -image file
+```
+
+
