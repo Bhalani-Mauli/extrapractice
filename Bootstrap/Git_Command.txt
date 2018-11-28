@@ -1,0 +1,41 @@
+adding file and . means all files
+git add .
+git add bootstrap.css
+add single file
+
+commit the message with proper message
+git commit -m "Proper message"
+
+now push it 
+git push
+
+
+__________________________
+changing branch 
+
+There are 2 ways 
+
+command line
+GUI
+
+1. git checkout BRANCHNAME
+2. in vs code at bottom corner (left) you can see the branch name .click on it and change the branch
+
+Note If you want to change the branch and if you are unable to change the branch then you can  either stash your changes or you can  commit it and push it 
+FOr ex.
+1. we have 1 change here and now we change the branch to master (git checkout master)
+2. git stash (it will save your all task in one temp file)
+3. when you want to get back those changes then type git stash pop and you will have ur changes
+
+
+-------------------
+everything that starts with 
+origin/xyz are remote branches means that are in github
+if you created a branch but havaent pushed it then thats local branch
+
+to delete a branch 
+git branch -d "name of branch"
+small d is for local and capital is for remote delete
+careful with this command
+++++++++++++++++++++++++++++++++++++++
+o
