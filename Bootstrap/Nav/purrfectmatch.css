@@ -19,6 +19,6 @@ hr{
     border-top:1px solid #f8f8f8;
     border-bottom: 1px solid rbga(0,0,0,0.2);
 }
-.nav-item{
-    word-spacing: 10px;
+.marginRight{
+    margin-right: 10px;
 }
