@@ -9,3 +9,8 @@
 .image{
     background-image: url(https://thumbnails.trvl-media.com/DiJh3WB-fBzEuBu5IQ1BWRm1TCs=/768x432/images.trvl-media.com/media/content/shared/images/travelguides/destination/6025867/Crater-Lake-National-Park-51659.jpg);
 }
+img{
+    display: flex;
+    width: 500px;
+    height: 800px;
+}
