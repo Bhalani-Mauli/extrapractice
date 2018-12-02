@@ -38,4 +38,10 @@ git branch -d "name of branch"
 small d is for local and capital is for remote delete
 careful with this command
 ++++++++++++++++++++++++++++++++++++++
-o
+
+git has one more thing called .gitignore file
+Why we need this ?
+- sometimes we dont want to send the big files in github for because of size or because of security
+so we can add that file path in .gitignore and then git wont push that files to github.
+
+____________________________________________
