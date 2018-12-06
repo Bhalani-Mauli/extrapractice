@@ -11,51 +11,40 @@ body{
 }
 .third{
     position: fixed;
-      margin: 20px;
+      margin: 30px;
       width: 60%;
   }
   .myhead{
     font-size: 100px;
+    font-family: fantasy;
     margin: 10px;
     margin-top: 50px;
+    margin-left: 50px;
   }
 .row{
-    padding: 0px;
+    padding: 50px;
+    display: flex;
 }
+.image {
+    width: 20%;
+    display: flex;
+    justify-content: right;
+    justify-items: right;
+  }
 
-
-
-
-
-
-
-
-
-
-
-.content{
-    width: 100vw;
-    height: 250vh;
-    flex: 0%;
-    margin-left: 100px;
-}
 img{
     display: flex;
     width: 300px;
     height: 600px;
+    justify-content: right;
+    justify-items: right;
+    margin-left: 800px;
 }
 
 .fa-arrow-left{
     width: 50px;
     height: 50px;
 }
-h1{
-    text-align: center;
-    margin-top: 150px;
-    margin-left: 0px;
-    font-size: 100px;
-    font-family: fantasy;
-}
-container{
+.content{
     display: flex;
 }
