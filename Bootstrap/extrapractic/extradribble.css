@@ -1,9 +1,38 @@
-.main{   
-  display: flex;
-  width: 100vw;
-  height: 100vh;
-  flex: 1%;
+body{
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
 }
+
+.main{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+.third{
+    position: fixed;
+      margin: 20px;
+      width: 60%;
+  }
+  .myhead{
+    font-size: 100px;
+    margin: 10px;
+    margin-top: 50px;
+  }
+.row{
+    padding: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
 .content{
     width: 100vw;
     height: 250vh;
@@ -15,21 +44,17 @@ img{
     width: 300px;
     height: 600px;
 }
-.col-mg-6{
-    width: 400px;
-    margin-top: 300px;
-    text-align: center;
-    padding: 10px;
-}
-.row{
-    text-align: center;
-}
+
 .fa-arrow-left{
     width: 50px;
     height: 50px;
 }
 h1{
-    width: 50%
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 0px;
+    font-size: 100px;
+    font-family: fantasy;
 }
 container{
     display: flex;
