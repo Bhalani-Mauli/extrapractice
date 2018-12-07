@@ -13,16 +13,17 @@ body{
     position: fixed;
       margin: 30px;
       width: 60%;
+      margin-top: 100px;
   }
   .myhead{
     font-size: 100px;
     font-family: fantasy;
     margin: 10px;
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 90px;
   }
 .row{
-    padding: 50px;
+    margin-left: 10px;
     display: flex;
 }
 .image {
@@ -38,13 +39,20 @@ img{
     height: 600px;
     justify-content: right;
     justify-items: right;
-    margin-left: 800px;
+    margin-left: 900px;
 }
 
-.fa-arrow-left{
-    width: 50px;
-    height: 50px;
+.logo{
+    margin-left: 50px;
+
 }
 .content{
     display: flex;
+}
+.second{
+    padding: 50px;
+
+}
+hr{
+    width: 10px;
 }
