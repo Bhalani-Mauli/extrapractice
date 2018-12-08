@@ -1,20 +1,3 @@
-body{
-    overflow: hidden;
-    margin: 0px;
-    padding: 0px;
-}
-
-.main{
-    width: 100vw;
-    height: 100vh;
-    display: flex;
-}
-.third{
-    position: fixed;
-      margin: 30px;
-      width: 60%;
-      margin-top: 100px;
-  }
   .myhead{
     font-size: 100px;
     font-family: fantasy;
@@ -22,37 +5,7 @@ body{
     margin-top: 50px;
     margin-left: 90px;
   }
-.row{
-    margin-left: 10px;
-    display: flex;
-}
-.image {
-    width: 20%;
-    display: flex;
-    justify-content: right;
-    justify-items: right;
-  }
 
-img{
-    display: flex;
-    width: 300px;
-    height: 600px;
-    justify-content: right;
-    justify-items: right;
-    margin-left: 900px;
-}
-
-.logo{
-    margin-left: 50px;
-
-}
-.content{
-    display: flex;
-}
-.second{
-    padding: 50px;
-
-}
-hr{
-    width: 10px;
+.fa-arrow-left{
+    padding: 15px;
 }
