@@ -1,5 +1,6 @@
 .color{
     background-color: brown;
+    height: 100%;
 }
 .image{
     
@@ -17,5 +18,12 @@
 }
 .logo{
     text-align: right;
-    
+    margin-top: -430px;
+    margin-right: 50px;
+}
+.vartical{
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    margin-top: -500px;
+    margin-left: 500px;
 }
